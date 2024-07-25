@@ -39,4 +39,8 @@ O NLW é um evento de múltiplas tecnologias que se integram, portanto [acesse e
 
 ---
 
-**[Visite meu LinkedIn](https://www.linkedin.com/in/barbaragmmecabo/)**
+<p align="center">
+    <a href="https://www.linkedin.com/in/barbaragmmecabo/" target="_blank">
+        <img alt="Linkedin badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
