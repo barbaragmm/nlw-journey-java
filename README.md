@@ -22,7 +22,6 @@ _Aplicação Back-end com Java Spring Boot desenvolvida durante o NLW 16: Journe
 - Lombok
 - Flyway
 - H2 Database
-- Insomnia
 
 ## 🎯 Requisitos Funcionais
 
